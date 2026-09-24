@@ -1,0 +1,7 @@
+default: true
+MD007: false # unordered list indentation conflicts with MkDocs 4-space list continuations
+MD013: false # line length too aggressive with tables and admonitions
+MD030: false # spaces after list markers conflicts with MkDocs list continuations
+MD033: false # inline HTML used by Zensical constructs
+MD041: false # first line h1 not always true in MkDocs nav pages
+MD046: false # admonition body indentation (4 spaces) is misidentified as indented code blocks
