@@ -14,9 +14,9 @@
 </h6>
 
 <p align="center">
-  <a href="https://discord.gg/9jza5R62"><img src="https://img.shields.io/discord/1283279739775352896?style=for-the-badge&labelColor=2b2b35&color=f0a3a3&logo=discord&logoColor=ecebf0" alt="Discord"/></a>
-  <a href="https://status.playreliquia.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fstatus.playreliquia.com&style=for-the-badge&label=status&up_message=online&down_message=offline&labelColor=2b2b35&up_color=f2bba3&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZWNlYmYwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTTIgMTJoNGwzLTggNiAxNiAzLThoNCIvPjwvc3ZnPg==" alt="Status"/></a>
-  <img src="https://img.shields.io/badge/stage-pre--alpha-ead2b0?style=for-the-badge&labelColor=2b2b35" alt="Stage: pre-alpha"/>
+  <a href="https://discord.gg/9jza5R62"><img src="https://img.shields.io/discord/1283279739775352896?style=for-the-badge&labelColor=363a4f&color=c6a0f6&logo=discord&logoColor=cad3f5" alt="Discord"/></a>
+  <a href="https://status.playreliquia.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fstatus.playreliquia.com&style=for-the-badge&label=status&up_message=online&down_message=offline&labelColor=363a4f&up_color=a6da95&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjY2FkM2Y1IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTTIgMTJoNGwzLTggNiAxNiAzLThoNCIvPjwvc3ZnPg==" alt="Status"/></a>
+  <img src="https://img.shields.io/badge/stage-pre--alpha-f5a97f?style=for-the-badge&labelColor=363a4f" alt="Stage: pre-alpha"/>
 </p>
 
 &nbsp;
