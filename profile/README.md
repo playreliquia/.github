@@ -14,17 +14,15 @@
 </h6>
 
 <p align="center">
-  <a href="https://discord.gg/9jza5R62"><img src="https://img.shields.io/discord/1283279739775352896?style=for-the-badge&labelColor=1a1a20&color=ff1616&logo=discord&logoColor=e2e2e9" alt="Discord"/></a>
-  <a href="https://status.playreliquia.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fstatus.playreliquia.com&style=for-the-badge&label=status&up_message=online&down_message=offline&labelColor=1a1a20&up_color=ff4747&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZTJlMmU5IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTTIgMTJoNGwzLTggNiAxNiAzLThoNCIvPjwvc3ZnPg==" alt="Status"/></a>
-  <img src="https://img.shields.io/badge/stage-pre--alpha-ff7a7a?style=for-the-badge&labelColor=1a1a20" alt="Stage: pre-alpha"/>
-  <img src="https://img.shields.io/badge/Godot-4-ffa3a3?style=for-the-badge&labelColor=1a1a20&logo=godotengine&logoColor=e2e2e9" alt="Godot 4"/>
-  <img src="https://img.shields.io/badge/backend-Nakama-ffc7c7?style=for-the-badge&labelColor=1a1a20" alt="Backend: Nakama"/>
+  <a href="https://discord.gg/9jza5R62"><img src="https://img.shields.io/discord/1283279739775352896?style=for-the-badge&labelColor=2b2b35&color=f0a3a3&logo=discord&logoColor=ecebf0" alt="Discord"/></a>
+  <a href="https://status.playreliquia.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fstatus.playreliquia.com&style=for-the-badge&label=status&up_message=online&down_message=offline&labelColor=2b2b35&up_color=f2bba3&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZWNlYmYwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTTIgMTJoNGwzLTggNiAxNiAzLThoNCIvPjwvc3ZnPg==" alt="Status"/></a>
+  <img src="https://img.shields.io/badge/stage-pre--alpha-ead2b0?style=for-the-badge&labelColor=2b2b35" alt="Stage: pre-alpha"/>
 </p>
 
 &nbsp;
 
 <p align="center">
-  Reliquia is a party-based online action RPG. Players form a party and travel between zones, each one a dedicated Godot 4 server that Nakama allocates on demand through Agones. The project is in its first phase: the toolchain, CI and infrastructure are standing, and gameplay comes next.
+  Reliquia is a party-based online action RPG. Gather your friends, explore a vast shared world, hunt its creatures and brave its dungeons together. The game is in early development: join the Discord to follow along and help shape it.
 </p>
 
 <h4 align="center">
@@ -53,10 +51,4 @@
 
 <p align="center">
 Join our community!
-</p>
-
-&nbsp;
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/playreliquia/.github/main/profile/assets/banner.svg" alt="Reliquia: a party-based online action RPG"/>
 </p>
